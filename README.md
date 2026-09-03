@@ -1,4 +1,4 @@
-# calculator-project  
+# calculator-project
 
 # Taschenrechner in JavaScript
 
